@@ -42,4 +42,5 @@ export const NLabel = ({
     </span>
   )
 }
- 
+
+export default NLabel
